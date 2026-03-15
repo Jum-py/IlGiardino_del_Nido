@@ -20,7 +20,7 @@ Clicca sul nome di ogni pianta per aprire la scheda completa.
 - [Achillea](/IlGiardino_del_Nido/fiori/achillea.html)
 - [Alloro](/IlGiardino_del_Nido/fiori/alloro.html)
 - [Aster](/IlGiardino_del_Nido/fiori/aster.html)
-- [Bocca di Leone](/IlGiardino_del_Nido/fiori/bocca_di_leone.html)
+- [Bocca di Leone](/IlGiardino_del_Nido/fiori/boccadileone.html)
 - [Calendula officinalis](/IlGiardino_del_Nido/fiori/calendula_officinalis.html)
 - [Callistemon](/IlGiardino_del_Nido/fiori/callistemon.html)
 - [Caprifoglio](/IlGiardino_del_Nido/fiori/caprifoglio.html)
