@@ -20,7 +20,7 @@ Il Tanaceto Piretro è una pianta erbacea perenne nota per i suoi fiori bianchi 
 - Attira insetti utili come api e sirfidi.
 
 ## Curiosità
-Il piretro naturale è uno dei più antichi insetticidi conosciuti. È biodegradabile e agisce rapidamente, motivo per cui è molto apprezzato in agricoltura biologica.
+Il "piretro" naturale è uno dei più antichi insetticidi conosciuti. È biodegradabile e agisce rapidamente, motivo per cui è molto apprezzato in agricoltura biologica.
 
 ## Coltivazione
 - Ama il sole pieno.  
