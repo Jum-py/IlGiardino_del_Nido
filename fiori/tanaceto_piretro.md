@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Tanaceto Piretro"
-image: "/Assets/img/tanaceto_piretro.jpg"
+image: "/assets/img/tanaceto_piretro.jpg"
 ---
 
 # Tanaceto Piretro
 *Tanacetum cinerariifolium*
 
-![Tanaceto Piretro](/Assets/img/tanaceto_piretro.jpg)
+![Tanaceto Piretro](/assets/img/tanaceto_piretro.jpg)
 
 **Fioritura:** Maggio - Luglio  
 **Famiglia:** Asteraceae  
