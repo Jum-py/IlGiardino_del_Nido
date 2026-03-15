@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Non ti scordar di me"
-image: "/IlGiardino_del_Nido/assets/img/non_ti_scordar_di_me.jpg"
+title: "Achillea"
+image: "/IlGiardino_del_Nido/assets/img/achillea.jpg"
 ---
 
-# Non ti scordar di me
-*Myosotis sylvatica*
+# Achillea
+*Achillea millefolium*
 
-<img src="/IlGiardino_del_Nido/assets/img/non_ti_scordar_di_me.jpg" style="max-width: 100%; height: auto;">
+<img src="/IlGiardino_del_Nido/assets/img/achillea.jpg" style="max-width: 100%; height: auto;">
 
-**Fioritura:** Primavera  
-**Famiglia:** Boraginaceae  
-**Origine:** Europa
+**Fioritura:** Estate  
+**Famiglia:** Asteraceae  
+**Origine:** Europa e Asia
 
-Il Non ti scordar di me è una piccola pianta erbacea dai delicati fiori azzurri, simbolo di memoria e affetto. È ideale per bordure e zone ombreggiate del giardino.
+L’Achillea è una pianta erbacea perenne molto rustica, caratterizzata da foglie finemente divise e infiorescenze a ombrella composte da molti piccoli fiori.
 
 ## Caratteristiche botaniche
-- Fiori azzurri con centro giallo.  
-- Foglie morbide e leggermente pelose.  
-- Crescita compatta e tappezzante.  
+- Foglie aromatiche, molto frastagliate.  
+- Infiorescenze piatte in vari colori: bianco, rosa, giallo.  
+- Resistente alla siccità e ai terreni poveri.  
 
 ## Curiosità
-È spesso associato al ricordo e alla fedeltà nel linguaggio dei fiori.
+Il nome deriva da Achille, che secondo la leggenda usava la pianta per curare le ferite dei suoi guerrieri.
