@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tanaceto Piretro"
-image: "/Assets/img/tanaceto_piretro.jpg"
+image: "Assets/img/tanaceto_piretro.jpg"
 ---
 
 # Tanaceto Piretro  
