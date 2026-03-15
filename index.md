@@ -3,13 +3,13 @@ layout: default
 title: "Il Giardino del Nido"
 ---
 
-# Benvenuti nel mio giardino
+# Benvenuti giardino del nido
 
 Una raccolta dei miei fiori, ognuno con la sua storia.
 Scansiona i QR nel giardino per scoprire ogni pianta.
 
 
-# Indice dei Fiori del Giardino del Nido
+# Indice dei Fiori
 
 Clicca sul nome di ogni pianta per aprire la scheda completa.
 
