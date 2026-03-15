@@ -7,7 +7,7 @@ image: "/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg"
 # Tanaceto Piretro
 *Tanacetum cinerariifolium*
 
-[Tanaceto Piretro](/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg)
+![Tanaceto Piretro](/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg)
 
 **Fioritura:** Maggio - Luglio  
 **Famiglia:** Asteraceae  
@@ -23,6 +23,7 @@ Il Tanaceto Piretro è una pianta erbacea perenne nota per i suoi fiori bianchi 
 
 ## Curiosità
 Il piretro naturale è uno dei più antichi insetticidi conosciuti. È biodegradabile e agisce rapidamente, motivo per cui è molto apprezzato in agricoltura biologica.
+
 
 ## Coltivazione
 - Ama il sole pieno.  
