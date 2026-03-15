@@ -10,4 +10,4 @@ Scansiona i QR nel giardino per scoprire ogni pianta.
 
 ## Catalogo dei fiori
 
-- [Tanaceto piretro](fiori/tanaceto_piretro.md)
+- [tanaceto piretro](fiori/tanaceto_piretro.md)
