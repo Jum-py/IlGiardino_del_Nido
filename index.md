@@ -30,7 +30,7 @@ Clicca sul nome di ogni pianta per aprire la scheda completa.
 - [Digitalis](/IlGiardino_del_Nido/fiori/digitalis_purpurea.html)
 - [Echinacea](/IlGiardino_del_Nido/fiori/echinacea.html)
 - [Elicrisio](/IlGiardino_del_Nido/fiori/elicrisio.html)
-- [Escolzia California](/IlGiardino_del_Nido/fiori/escolzia_california.html)
+- [Escolzia California](/IlGiardino_del_Nido/fiori/escolzia.html)
 - [Facelia](/IlGiardino_del_Nido/fiori/facelia.html)
 - [Fiordaliso](/IlGiardino_del_Nido/fiori/fiordaliso.html)
 - [Fragole](/IlGiardino_del_Nido/fiori/fragole.html)
