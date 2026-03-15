@@ -7,7 +7,7 @@ image: "/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg"
 # Tanaceto Piretro
 *Tanacetum cinerariifolium*
 
-![Tanaceto Piretro](/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg)
+<img src="/IlGiardino_del_Nido/assets/img/tanaceto_piretro.jpg" style="max-width: 100%; height: auto;">
 
 **Fioritura:** Maggio - Luglio  
 **Famiglia:** Asteraceae  
