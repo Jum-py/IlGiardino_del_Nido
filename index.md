@@ -27,7 +27,7 @@ Clicca sul nome di ogni pianta per aprire la scheda completa.
 - [Citronella](/IlGiardino_del_Nido/fiori/citronella.html)
 - [Corbezzolo](/IlGiardino_del_Nido/fiori/corbezzolo.html)
 - [Cosmea](/IlGiardino_del_Nido/fiori/cosmea.html)
-- [Digitalis](/IlGiardino_del_Nido/fiori/digitalis.html)
+- [Digitalis](/IlGiardino_del_Nido/fiori/digitalis_purpurea.html)
 - [Echinacea](/IlGiardino_del_Nido/fiori/echinacea.html)
 - [Elicrisio](/IlGiardino_del_Nido/fiori/elicrisio.html)
 - [Escolzia California](/IlGiardino_del_Nido/fiori/escolzia_california.html)
