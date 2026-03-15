@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Melograno"
-image: "/IlGiardino_del_Nido/assets/img/melograno.jpg"
+title: "Aster"
+image: "/IlGiardino_del_Nido/assets/img/aster.jpg"
 ---
 
-# Melograno
-*Punica granatum*
+# Aster
+*Aster spp.*
 
-<img src="/IlGiardino_del_Nido/assets/img/melograno.jpg" style="max-width: 100%; height: auto;">
+<img src="/IlGiardino_del_Nido/assets/img/aster.jpg" style="max-width: 100%; height: auto;">
 
-**Fioritura:** Maggio – giugno  
-**Famiglia:** Lythraceae  
-**Origine:** Medio Oriente
+**Fioritura:** Fine estate – autunno  
+**Famiglia:** Asteraceae  
+**Origine:** Europa, Asia, Nord America
 
-Il melograno è un arbusto o piccolo albero ornamentale e da frutto, apprezzato per i suoi fiori rossi vivaci e per le melagrane, ricche di semi succosi.
+Gli Aster sono piante erbacee perenni note per la loro fioritura tardiva, che illumina il giardino quando molte altre piante sono ormai sfiorite. I loro capolini ricordano piccole margherite dai colori vivaci.
 
 ## Caratteristiche botaniche
-- Foglie lucide, opposte, di colore verde brillante.  
-- Fiori rossi o arancio, molto decorativi.  
-- Frutti globosi ricchi di arilli succosi.  
+- Portamento cespuglioso e ordinato.  
+- Fiori a margherita in tonalità di viola, rosa, blu o bianco.  
+- Attirano farfalle, api e insetti impollinatori.  
 
 ## Curiosità
-Simbolo di abbondanza e fertilità in molte culture.
+Il nome “Aster” deriva dal greco e significa “stella”.
