@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: "Il Giardino del Nido"
 description: "Fiori, colori e storie botaniche"
+github:
+  is_project_page: false
